@@ -4,10 +4,10 @@ The following procedures and supporting files are needed to successfully run a s
 
 ## STEP 1 - Download FPED data
 FPED data can be downloaded directly from: https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-databases/ 
-You will need all the food pattern equivalents for foods in the WWEIA, NHANES 20XX-YY. Example attached pools 2011-2018 and can be found in [nhanes-data]{www.github.com/bjks10/NHANES_wtofm/nhanes-data} subfolder. 
+You will need all the food pattern equivalents for foods in the WWEIA, NHANES 20XX-YY. Example attached pools 2011-2018 and can be found in [nhanes-data]{www.github.com/bjks10/NHANES_wtofm/nhanes-data "nhanes-data title"} subfolder. 
 
 ## STEP 2 - Make Food Groups from 24HR Diet Recall data
-Run MakeFoodGroups_nhanes.sas  - run for each survey cycle separately. Make sure the order of variables match with the cycle run. Example runs 2011-12 (G), 2013-14 (H), 2015-16 (I), 2017-18 (J)can be found in [nhanes-data]{www.github.com/bjks10/NHANES_wtofm/nhanes-data} subfolder.
+Run MakeFoodGroups_nhanes.sas  - run for each survey cycle separately. Make sure the order of variables match with the cycle run. Example runs 2011-12 (G), 2013-14 (H), 2015-16 (I), 2017-18 (J)can be found in [nhanes-data]{www.github.com/bjks10/NHANES_wtofm/nhanes-data "nhanes-data title"} subfolder.
 Note: The ordering of food group variables changed in 2017-2018 (J) cycle
 	
   *Input files*:	FPED_DR1TOT_XXYY.sas7bdat
