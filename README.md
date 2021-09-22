@@ -3,7 +3,7 @@
 The following procedures and supporting files are needed to successfully run a survey-weighted overfitted latent class model using 24-hour dietary intake data from the National Health and Nutrition Examination Surveys, pooling four survey cycles: 2011-2012, 2013-2014, 2015-2016, 2017-2018.
 
 ## STEP 1 - Download FPED data
-FPED data can be downloaded directly from: https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-databases/ 
+FPED data can be downloaded directly from the [USDA/ARS](https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-databases/ "USDA/ARS title") website.
 You will need all the food pattern equivalents for foods in the WWEIA, NHANES 20XX-YY. Example attached pools 2011-2018 and can be found in [nhanes-data](www.github.com/bjks10/NHANES_wtofm/nhanes-data "nhanes-data title") subfolder. 
 
 ## STEP 2 - Make Food Groups from 24HR Diet Recall data
