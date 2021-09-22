@@ -1,0 +1,40 @@
+# WWEIA,NHANES 2011-2018
+
+The following SAS datafiles are provided as direct downloads from USDA-ARS website:
+  1. 2011-2012 FPED diet files
+    * fped_dr1iff_1112.sas7bdat
+    * fped_dr2iff_1112.sas7bdat
+    * fped_dr1tot_1112.sas7bdat
+    * fped_dr2tot_1112.sas7bdat
+  2. 2013-2014 FPED diet files
+    * fped_dr1iff_1314.sas7bdat
+    * fped_dr2iff_1314.sas7bdat
+    * fped_dr1tot_1314.sas7bdat
+    * fped_dr2tot_1314.sas7bdat
+  3. 2015-2016 FPED diet files
+    * fped_dr1iff_1516.sas7bdat
+    * fped_dr2iff_1516.sas7bdat
+    * fped_dr1tot_1516.sas7bdat
+    * fped_dr2tot_1516.sas7bdat
+  4. 2017-2018 FPED diet files
+    * fped_dr1iff_1718.sas7bdat
+    * fped_dr2iff_1718.sas7bdat
+    * fped_dr1tot_1718.sas7bdat
+    * fped_dr2tot_1718.sas7bdat
+    
+# NHANES Demographic Data
+The following SAS data files are provided as direct downloads from NHANES website providing demographic data variables for survey years 2011-2018.
+
+  1. 2011-2012: DEMO_G.sas7bdat
+  2. 2013-2014: DEMO_H.sas7bdat
+  3. 2015-2016: DEMO_I.sas7bdat
+  4. 2017-2018: DEMO_J.sas7bdat
+  
+
+# NHANES Dietary Recall Data
+The following SAS data files are provided as direct downloads from NHANES website to pull dietary recall weights:
+
+  1. 2011-2012: DR1TOT_G.sas7bdat
+  2. 2013-2014: DR1TOT_H.sas7bdat
+  3. 2015-2016: DR1TOT_I.sas7bdat
+  4. 2017-2018: DR1TOT_J.sas7bdat
