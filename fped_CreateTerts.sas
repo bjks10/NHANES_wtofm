@@ -51,7 +51,8 @@ data fped_dravg1718;
 *reorder variables to match 11-16;
 retain seqn _Freq_ foodgroup2-foodgroup4 foodgroup1 foodgroup6 foodgroup8 foodgroup9 foodgroup7
 foodgroup11 foodgroup12 foodgroup10 foodgroup13 foodgroup5 foodgroup14 foodgroup16 foodgroup17
-foodgroup15 foodgroup20-foodgroup25 foodgroup19 foodgroup26-foodgroup29 foodgroup18 foodgroup30-foodgroup37 nrecall;
+foodgroup15 foodgroup20-foodgroup25 foodgroup19 foodgroup26-foodgroup29 foodgroup18 
+foodgroup31-foodgroup33 foodgroup30 foodgroup34-foodgroup37 nrecall;
 set pride.fped_dravg1718;
 
 array fg{37} fg1-fg37;
